@@ -1,0 +1,312 @@
+//JSON data for testing
+
+
+{
+    "username" : "admin@madical.com",
+    "password" : "111111"
+}
+
+
+{
+    "storeId" : 1190001,
+    "email" : "har@madical.com",
+    "storeName" : "Har-Kel Inc.",
+    "type" : "MIDICAL",
+    "password" : "12345678",
+    "address" : "1903 Mayview Rd, Bridgeville, PA 15017",
+    "webSite" : "www.blackburnsmed.com",
+    "phone" : 4126771250,
+    "items" : [],
+    "roles" : null
+}
+{
+    "storeId" : 1190002,
+    "email" : "healthmart@madical.com",
+    "storeName" : "Health Mart",
+    "type" : "MIDICAL",
+    "password" : "123456",
+    "address" : "3239 Washington Pike, Bridgeville, PA 15017",
+    "webSite" : "healthmart.com",
+    "phone" : 4129140752,
+    "items" : [],
+    "roles" : null
+}
+
+
+{
+    "itemId" : 1191218001,
+	"itemName" : "Cold Defence NASPAL Spray",
+	"price" : 17.97,
+	"producer" : "BETADINE",
+	"catalog" : "Cold and Flu",
+	"storage" : 30,
+	"bloodVolum" : null,
+	"bloodType" : null,
+	"medShop" : 
+}
+{
+    "itemId" : 1191218002,
+	"itemName" : "Flu Terminator",
+	"price" : "16.90",
+	"producer" : "Be Well",
+	"catalog" : "Cold and Flu",
+	"storage" : 30,
+	"bloodVolum" : null,
+	"bloodType" : null, 
+	"medShop" : 
+}
+{
+    "itemId" : 1191218003,
+	"itemName" : "Migraine Stick",
+	"price" : "10.99",
+	"producer" : "Migrastil",
+	"catalog" : "Wound Care",
+	"storage" : 20,
+	"bloodVolum" : null,
+	"bloodType" : null,
+	"medShop" :
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Admin
+
+{
+    "perId" : 10000000,
+    "userName" : "admin",
+    "password" : "00000000",
+    "eMail" : "none"
+}
+
+//------------------------Medical Shop-----------------------------
+
+{
+    "storeId" : 1190001,
+    "email" : "har@madical.com",
+    "storeName" : "Har-Kel Inc.",
+    "type" : "MIDICAL",
+    "password" : "12345678",
+    "address" : "1903 Mayview Rd, Bridgeville, PA 15017",
+    "webSite" : "www.blackburnsmed.com",
+    "phone" : 4126771250,
+    "items" : [],
+    "roles" : null
+}
+{
+    "storeId" : 1190002,
+    "email" : "healthmart@madical.com",
+    "storeName" : "Health Mart",
+    "type" : "MIDICAL",
+    "password" : "123456",
+    "address" : "3239 Washington Pike, Bridgeville, PA 15017",
+    "webSite" : "healthmart.com",
+    "phone" : 4129140752,
+    "items" : [],
+    "roles" : null
+}
+
+{
+    "orgId" : 1190003,
+    "orgName" : "John R. Hays, Pharm",
+    "orgAddress" : "1741 Washington Rd, Pittsburgh, PA 15241",
+    "webSite" : "walgreens.com",
+    "phone" : 4128353549,
+    "members" : [],
+    "medicines" : []
+}
+
+{
+    "orgId" : 1190004,
+    "orgName" : "Kevin's Pharmacy",
+    "orgAddress" : "799 Castle Shannon Blvd, Pittsburgh, PA 15234",
+    "webSite" : " ",
+    "phone" : 4125612417,
+    "members" : [],
+    "medicines" : []
+}
+
+{
+    "orgId" : 1190005,
+    "orgName" : "Back Braces Baldwin",
+    "orgAddress" : "322 Marylea Ave, Pittsburgh, PA 15227",
+    "webSite" : "braceshop.com",
+    "phone" : 8779245228,
+    "members" : [],
+    "medicines" : []
+}
+
+{
+    "orgId" : 1190006,
+    "orgName" : "Jefferys Drug Store",
+    "orgAddress" : "1 N Central Ave, Canonsburg, PA 15317",
+    "webSite" : "jeffreysdrugstore.com",
+    "phone" : 7247456480,
+    "members" : [],
+    "medicines" : []
+}
+
+//-------------------------Blood Bank----------------------------
+
+{
+    "orgId" : 2190001
+    "orgName" : "CSL Plasma"
+    "orgAddress" : "4313 Walnut St, McKeesport, PA 15132"
+    "webSite" : "www.cslplasma.com",
+    "phone" : 4124651136,
+    "members" : []
+    "bloods" : []
+}
+
+{
+    "orgId" : 2190002
+    "orgName" : "Central Blood Bank South Hills"
+    "orgAddress" : "1176, 4701 Baptist Rd # 401, Pittsburgh, PA 15227"
+    "webSite" : " ",
+    "phone" : 4128823636,
+    "members" : []
+    "bloods" : []
+}
+
+{
+    "orgId" : 2190003
+    "orgName" : "Central Blood Bank"
+    "orgAddress" : "875 Greentree Rd building 5, Pittsburgh, PA 15220"
+    "webSite" : " ",
+    "phone" : 4122097000,
+    "members" : []
+    "bloods" : []
+}
+
+{
+    "orgId" : 2190004
+    "orgName" : "Biomat USA"
+    "orgAddress" : "1330 Western Ave, Pittsburgh, PA 15233"
+    "webSite" : "www.grifolsplasma.com",
+    "phone" : 4123221909,
+    "members" : []
+    "bloods" : []
+}
+
+{
+    "orgId" : 2190005
+    "orgName" : "Vitalant"
+    "orgAddress" : "429 Fourth Ave, Pittsburgh, PA 15219"
+    "webSite" : "www.vitalant.org",
+    "phone" : 4124678250,
+    "members" : []
+    "bloods" : []
+}
+
+
+
+//------------------------------Medicine-------------------------------
+Catalog[]
+
+{
+    "itemId" : 1191218001,
+	"itemName" : "Cold Defence NASPAL Spray",
+	"price" : 17.97,
+	"producer" : "BETADINE",
+	"catalog" : "Cold and Flu",
+	"storage" : 30,
+	"bloodVolum" : null,
+	"bloodType" : null,
+	"medShop" : 
+}
+{
+    "itemId" : 1191218002,
+	"itemName" : "Flu Terminator",
+	"price" : "16.90",
+	"producer" : "Be Well",
+	"catalog" : "Cold and Flu",
+	"storage" : 30,
+	"bloodVolum" : null,
+	"bloodType" : null, 
+	"medShop" : 
+}
+{
+    "itemId" : 1191218003,
+	"itemName" : "Migraine Stick",
+	"price" : "10.99",
+	"producer" : "Migrastil",
+	"catalog" : "Wound Care",
+	"storage" : 20,
+	"bloodVolum" : null,
+	"bloodType" : null,
+	"medShop" :
+}
+
+{
+    "itemId" : 1191218004
+	"itemName" : "Waterproof Adhesive Island Dressing"
+	"price" : "12.89"
+	"producer" : "JJ Care"
+	"catalog" : "First Aid"
+	"managerId" :
+	"storage" : 100
+	"medShop" :
+}
+
+//--------------------------------Blood----------------------------------
+
+{
+    "itemId" : 2191218001
+	"details" : "A"
+	"bloodSize" : 200
+	"managerId" :
+	"bank" :
+}
+
+{
+    "itemId" : 2191218002
+	"details" : "B"
+	"bloodSize" : 200
+	"managerId" :
+	"bank" :
+}
+
+{
+    "itemId" : 2191218003
+	"details" : "AB"
+	"bloodSize" : 200
+	"managerId" :
+	"bank" :
+}
+
+{
+    "itemId" : 2191218004
+	"details" : "O"
+	"bloodSize" : 300
+	"managerId" :
+	"bank" :
+}
+
+{
+    "itemId" : 2191218005
+	"details" : "O"
+	"bloodSize" : 300
+	"managerId" :
+	"bank" :
+}
+
+{
+    "itemId" : 2191218006
+	"details" :
+	"bloodSize" :
+	"managerId" :
+	"bank" :
+}
+
+
